@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 45px;
+}
+header{
+    background-color:darkgrey;
+    height: 20%;
+    font-size: 60px;
+}
+article{
+    background-color: aliceblue;
+    max-width: 60%;
+}
+footer{
+    background-color: dimgray;
+    height: 20%;
+}
